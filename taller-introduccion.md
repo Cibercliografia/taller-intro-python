@@ -77,6 +77,8 @@ Si Python está bien instalado aparecerá por respuesta algo así como: `python 
 
 Baker, James. "Preservar tus datos de investigación", traducido por Víctor Gayol, *The Programming Historian en español 1* (2017), https://doi.org/10.46430/phes0023.
 
+Dawson, Ted. "Introducción a la línea de comandos de Windows con PowerShell", traducido por Victor Gayol, *The Programming Historian en español 2* (2018), https://doi.org/10.46430/phes0037.
+
 Gibbs, Fred. "Instalar módulos de Python con pip", traducido por Víctor Gayol, *The Programming Historian en español 1* (2017), https://doi.org/10.46430/phes0012.
 
 Lutz, Mark. *Learning Python: Powerful Object-Oriented Programming*. Beijing: O'Reilly, 2013.
@@ -87,5 +89,7 @@ Lutz, Mark. *Learning Python: Powerful Object-Oriented Programming*. Beijing: O'
 
 
 Matthes, Eric. *Python Crash Course, 2Nd Edition: A Hands-On, Project-Based Introduction To Programming*. 2da edición. San Francisco, CA: No Starch Press, 2019.
+
+Milligan, Ian  y James Baker, "Introducción a la línea de comandos en Bash", traducido por Víctor Gayol, *The Programming Historian en español 1* (2017), https://doi.org/10.46430/phes0013.
 
 Turkel, William J. y Adam Crymble. "Introducción a Python e Instalación", traducido por Víctor Gayol, *The Programming Historian en español 1* (2017), https://doi.org/10.46430/phes0016. (14 lecciones)
