@@ -52,7 +52,7 @@ Windows
 C:\users\user\escritorio\python-data\
 ```
 
-macOS
+macOS, UNIX:
 ```
 /users/user/desktop/python-data/
 ```
