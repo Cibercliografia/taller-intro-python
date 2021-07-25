@@ -5,3 +5,4 @@ Para visualizar los jupyter notebooks, abrir [Jupyter Nbviewer](https://nbviewer
 
 * [Introducción](https://nbviewer.jupyter.org/github/Cibercliografia/taller-intro-python/blob/main/Taller_introduccion_py_00.ipynb)
 * [Primera lección](https://nbviewer.jupyter.org/github/Cibercliografia/taller-intro-python/blob/main/Taller_introduccion_py_01.ipynb)
+* [Segunda lección](https://nbviewer.jupyter.org/github/Cibercliografia/taller-intro-python/blob/main/Taller_introduccion_py_02.ipynb)
