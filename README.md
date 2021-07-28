@@ -5,4 +5,4 @@ Para visualizar los jupyter notebooks, abrir [Jupyter Nbviewer](https://nbviewer
 
 * [Introducción](https://nbviewer.jupyter.org/github/Cibercliografia/taller-intro-python/blob/main/Taller_introduccion_py_00.ipynb)
 * [Primera lección](https://nbviewer.jupyter.org/github/Cibercliografia/taller-intro-python/blob/main/Taller_introduccion_py_01.ipynb)
-* [Segunda lección](https://nbviewer.jupyter.org/github/Cibercliografia/taller-intro-python/blob/main/Taller_introduccion_py_02.ipynb) | [en Binder](https://mybinder.org/v2/gh/Cibercliografia/taller-intro-python/91af62f5ed1a1cefc2679b8adcbb8353dbac689a)
+* [Segunda lección](https://nbviewer.jupyter.org/github/Cibercliografia/taller-intro-python/blob/main/Taller_introduccion_py_02.ipynb) | [en Binder](https://gesis.mybinder.org/binder/v2/gh/Cibercliografia/taller-intro-python/fc80f47c417a2928154b3cf6171a9f5ffc9a8966?filepath=Taller_introduccion_py_02.ipynb)
